@@ -12,4 +12,4 @@ This project builds a universal iOS app that illustrates these behaviors of NSDa
 
 In the course of closely examining NSDate and friends, we also took a look at historical handling of pre-1970 time zones by NSTimeZone, NSNumberFormatter, and the handling of NSDate objects within the Parse.com backend-as-a-service.
 
-For a detailed discussion of NSDate and its friends, see our blog post at [359north.com](http://359north.com/blog/2015/02/08/the-limits-of-nsdate-and-friends)
+For a detailed discussion of NSDate and its friends, see our blog post at [359north.com](http://359north.com/blog/2015/02/08/the-limits-of-nsdate-and-friends/)
