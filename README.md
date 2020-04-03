@@ -1,4 +1,4 @@
-##Limits on NSDate and friends##
+## Limits on NSDate and friends ##
 
 Instances of NSDate are simple wrappers around a double precision floating point value that represents the number of seconds before or after the reference date -- the first instant of 1 January 2001, GMT.
 
